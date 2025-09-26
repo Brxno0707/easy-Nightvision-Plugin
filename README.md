@@ -1,2 +1,2 @@
-# easy-Nightvision-Plugin
+# Easy-Nightvision-Plugin
 Try /nv 

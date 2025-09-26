@@ -1,0 +1,7 @@
+name: NightVisionPlugin
+version: '1.0'
+main: de.brxno.nightVisionPlugin.NightVisionPlugin
+api-version: '1.21'
+author: Brxno0707
+description: Toggle night vision for players
+website: https://github.com/Brxno0707

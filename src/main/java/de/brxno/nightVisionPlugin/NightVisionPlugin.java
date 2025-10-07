@@ -7,7 +7,6 @@ public class NightVisionPlugin extends JavaPlugin {
     public void onEnable() {
         getLogger().info("NightVision Plugin is enabled!");
 
-        // Command programmatisch registrieren (Paper 1.20.5+)
         this.getServer().getCommandMap().register("nv", new NightVisionCommand("nv"));
     }
 
